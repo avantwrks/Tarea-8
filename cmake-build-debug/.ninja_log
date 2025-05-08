@@ -1,0 +1,9 @@
+# ninja log v6
+6	565	7683846522810269	CMakeFiles/Tarea8.dir/Cliente.cpp.obj	5c9e45d260c9803a
+9	754	7683846522831290	CMakeFiles/Tarea8.dir/Cuenta.cpp.obj	306a16c23aae669
+17	767	7683846522921225	CMakeFiles/Tarea8.dir/CuentaCorriente.cpp.obj	c7022b778b0dd945
+13	816	7683846522875745	CMakeFiles/Tarea8.dir/CuentaAhorros.cpp.obj	e08468a20e82b5c8
+23	1851	7683853400297401	CMakeFiles/Tarea8.dir/CuentaCorriente.cpp.obj	c7022b778b0dd945
+12	2003	7683853400183493	CMakeFiles/Tarea8.dir/main.cpp.obj	e37c2e51e650b15e
+15	2797	7683853400228609	CMakeFiles/Tarea8.dir/Cliente.cpp.obj	5c9e45d260c9803a
+20	2866	7683853400267063	CMakeFiles/Tarea8.dir/CuentaAhorros.cpp.obj	e08468a20e82b5c8
